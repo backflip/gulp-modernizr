@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/doctyper/gulp-modernizr",
   "dependencies": {
-    "customizr": "git+https://github.com/backflip/customizr.git",
+    "customizr": "https://github.com/backflip/customizr/tarball/develop",
     "gulp-util": "~2.2.10",
     "through2": "~0.4.0"
   },
